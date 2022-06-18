@@ -1,8 +1,4 @@
-# Smart Tour PE
-
-
-
-Este projeto vai auxiliar o turismo 4.0 em Pernambuco.
+![Smart Tour PE](https://user-images.githubusercontent.com/65687086/174416801-9c3e746d-6a4c-42a4-bd6c-0c8b05e59350.jpg)
 
 ## Sobre o projeto
 

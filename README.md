@@ -14,8 +14,8 @@ Icone do projeto
 
 ## Sobre o projeto
 
-Este projeto pode auxiliar o turismo em Pernambuco com a decorrete da baixa procura causada pela COVID-19, o setor de turismo possui um enorme potencial e tem muito para crescer. 
-A proposta busca reforçar a procura por destinos turísticos com foco na natureza.
+Este projeto pode auxiliar o turismo em Pernambuco a buscar uma retomada após queda decorrete da baixa procura causada pela COVID-19, o setor de turismo possui um enorme potencial e tem muito para crescer. 
+A proposta busca apresentar destinos turísticos com foco na natureza.
 
 ## Janelas e Prototipação do projeto
 

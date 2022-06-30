@@ -14,18 +14,15 @@ Icone do projeto
 
 ## Sobre o projeto
 
-Este projeto vai auxiliar o turismo 4.0 em Pernambuco....
+Este projeto pode auxiliar o turismo em Pernambuco com a decorrete da baixa procura causada pela COVID-19, o setor de turismo possui um enorme potencial e tem muito para crescer. 
+A proposta busca reforçar a procura por destinos turísticos com foco na natureza.
 
-## Janelas do projeto
-
-Abaixo apresento as janelas do projeto:
+## Janelas e Prototipação do projeto
 
 - [Janelas e Protótipo do projeto](https://www.figma.com/file/g8EoEuxvW4zATsWB9gu4wQ/Smart-Tour-PE-(version-2)?node-id=0%3A1)
 
 
 ## Árvore do projeto
-
-Abaixo apresento a árvore do projeto:
 
 - [Árvore do Projeto](https://www.figma.com/file/PLUAxHAshOfxS1JCtsmkLl/%C3%81rvore)
 

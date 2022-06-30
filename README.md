@@ -4,6 +4,9 @@
 <img src="https://user-images.githubusercontent.com/65687086/176789389-a2597a82-abbe-4d85-a319-b390c7c39e3e.png" width="500px" /
 </div>
 
+<div align="left">
+## Icone do projeto
+</div>
 ## Icone do projeto
 
 <div align="left">

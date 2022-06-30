@@ -1,10 +1,13 @@
 # Smart Tour PE
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/65687086/176789389-a2597a82-abbe-4d85-a319-b390c7c39e3e.png" width="500px" /
+</div>
 
 ## Icone do projeto
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/65687086/176788923-1ed37b6e-efaf-430b-b269-5486d322bd3c.png" width="700px" /
+<img src="https://user-images.githubusercontent.com/65687086/176788923-1ed37b6e-efaf-430b-b269-5486d322bd3c.png" width="200px" /
 </div>
 
 Este projeto vai auxiliar o turismo 4.0 em Pernambuco.

@@ -19,12 +19,17 @@ A proposta busca apresentar destinos turísticos com foco na natureza.
 
 ## Janelas e Prototipação do projeto
 
-- [Janelas e Protótipo do projeto](https://www.figma.com/file/g8EoEuxvW4zATsWB9gu4wQ/Smart-Tour-PE-(version-2)?node-id=0%3A1)
+- [Link da Janelas e Protótipo do projeto](https://www.figma.com/file/g8EoEuxvW4zATsWB9gu4wQ/Smart-Tour-PE-(version-2)?node-id=0%3A1)
 
 
 ## Árvore do projeto
 
-- [Árvore do Projeto](https://www.figma.com/file/PLUAxHAshOfxS1JCtsmkLl/%C3%81rvore)
+- [Link da Árvore do Projeto](https://www.figma.com/file/PLUAxHAshOfxS1JCtsmkLl/%C3%81rvore)
+
+
+## Vídeo de apresentação do projeto
+
+- [Link do Vídeo de apresentação do projeto](https://youtu.be/wUYz7CggZ18)
 
 
 ## Tecnnologias Usadas

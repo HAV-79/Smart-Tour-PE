@@ -33,7 +33,7 @@ A proposta busca apresentar destinos turísticos com foco na natureza.
 
 ## Pitch de apresentação do projeto
 
-- [Link do Pitch de apresentação do projeto](https://youtu.be/nGB-sdTLQJs)
+- [Link do Pitch de apresentação do projeto](https://youtu.be/jxjl5poPKek)
 
 
 ## Play Store
